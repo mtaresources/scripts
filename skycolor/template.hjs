@@ -1,0 +1,4 @@
+-- Sky Color Script
+addEventHandler("onClientResourceStart", resourceRoot, function()
+    setSkyGradient({{r topColor}}, {{g topColor}}, {{b topColor}}, {{r bottomColor}}, {{g bottomColor}}, {{b bottomColor}})
+end)

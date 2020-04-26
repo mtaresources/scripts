@@ -1,0 +1,18 @@
+{
+  "title": "Sky Color",
+  "description": "Sets the colors of the sky gradient when starting a map",
+  "type": "object",
+  "required": ["topColor", "bottomColor"],
+  "properties": {
+    "topColor": {
+      "type": "string",
+      "title": "Top Color",
+      "default": "#FFFFFF"
+    },
+    "bottomColor": {
+      "type": "string",
+      "title": "Bottom Color",
+      "default": "#FFFFFF"
+    }
+  }
+}

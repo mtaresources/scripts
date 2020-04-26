@@ -1,0 +1,10 @@
+{
+  "topColor": {
+    "ui:autofocus": true,
+    "ui:widget": "color"
+  },
+  "bottomColor": {
+    "ui:autofocus": true,
+    "ui:widget": "color"
+  }
+}
